@@ -25,7 +25,7 @@ This script has demonstrated strong performance over the past four years, accura
 
 ![Example Output](Figures/BTC-USD_2024-02-10_2.png)
 
-## Some indicators included in this implementatioon
+## Some indicators included in this implementation
 
 - **Squeeze Momentum Indicator**: Identifies the beginning and end of trends by combining Bollinger Bands and Keltner Channels.
 - **Moving Average Divergence Convergence (MACD)**: Helps determine trend directions through the crossing of short-term and long-term moving averages.
