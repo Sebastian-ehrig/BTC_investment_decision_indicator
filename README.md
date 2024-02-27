@@ -21,7 +21,7 @@ The example output showcases market behavior from January 2023 to February 2024,
 
 ## Performance
 
-This script has demonstrated strong performance over the past four years, accurately identifying both the top and bottom of trends in the Bitcoin market delivering an impressive 1239% return. By leveraging a combination of technical indicators, including MACD, RSI, and Smooth Momentum, investors can make informed decisions that have led to consistent returns with minimal drawdown risk.
+This script has demonstrated strong performance over the past four years, accurately identifying both the top and bottom of trends in the Bitcoin market delivering an impressive 1259% return. By leveraging a combination of technical indicators, including MACD, RSI, and Smooth Momentum, investors can make informed decisions that have led to consistent returns with minimal drawdown risk.
 
 ![Example Output](Figures/BTC-USD_2024-02-27_1.png)
 
