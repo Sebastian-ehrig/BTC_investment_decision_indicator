@@ -17,13 +17,13 @@ This implementation is designed to help achieve a cumulative return with minimal
 
 The example output showcases market behavior from January 2023 to February 2024, demonstrating precise market entries and capitalizing on buy and sell opportunities. By leveraging these indicators, it achieved an impressive cumulative return of ~102%.
 
-![Example Output](Figures/BTC-USD_2024-02-13_1.png)
+![Example Output](Figures/BTC-USD_2024-02-27_2.png)
 
 ## Performance
 
 This script has demonstrated strong performance over the past four years, accurately identifying both the top and bottom of trends in the Bitcoin market delivering an impressive 1239% return. By leveraging a combination of technical indicators, including MACD, RSI, and Smooth Momentum, investors can make informed decisions that have led to consistent returns with minimal drawdown risk.
 
-![Example Output](Figures/BTC-USD_2024-02-10_2.png)
+![Example Output](Figures/BTC-USD_2024-02-27_1.png)
 
 ## Some indicators included in this implementation
 
