@@ -15,7 +15,7 @@ This implementation is designed to help achieve a cumulative return with minimal
 
 ## Example Output
 
-The repository includes scripts for visualizing indicators such as MACD, RSI, and Bollinger Bands. An example output might look like the following:
+The example output showcases market behavior from January 2023 to February 2024, demonstrating precise market entries and capitalizing on buy and sell opportunities. By leveraging these indicators, it achieved an impressive cumulative return of ~100%.
 
 ![Example Output](Figures/BTC-USD_2024-02-21_.png)
 
