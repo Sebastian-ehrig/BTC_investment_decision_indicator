@@ -13,6 +13,12 @@ This repository offers a comprehensive investment strategy for Bitcoin (BTC) bas
 
 This implementation is designed to help achieve a cumulative return with minimal drawdown risk. By combining multiple indicators and considering additional factors such as the DXY Index and Golden Cross, investors can better navigate the volatile BTC market while aiming for consistent returns.
 
+## Example Output
+
+The repository includes scripts for visualizing indicators such as MACD, RSI, and Bollinger Bands. An example output might look like the following:
+
+![Example Output](Figures/BTC-USD_2024-02-21_.png)
+
 ## Performance
 
 This script has demonstrated strong performance over the past four years, accurately identifying both the top and bottom of trends in the Bitcoin market. By leveraging a combination of technical indicators, including MACD, RSI, and Smooth Momentum, investors can make informed decisions that have led to consistent returns with minimal drawdown risk.
@@ -38,12 +44,6 @@ To use the provided scripts, ensure you have the required Python libraries insta
 - yfinance: 0.2.3
 - numpy: 1.24.1
 - matplotlib: 3.6.2
-
-## Example Output
-
-The repository includes scripts for visualizing indicators such as MACD, RSI, and Bollinger Bands. An example output might look like the following:
-
-![Example Output](Figures/BTC-USD_2024-02-21_.png)
 
 ## Contributors
 
