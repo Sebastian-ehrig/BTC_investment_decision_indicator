@@ -7,7 +7,7 @@ Advanced Bitcoin indicator for strategic investment decisions, delivering consis
 
 ## Introduction
 
-This repository offers a comprehensive investment strategy for Bitcoin (BTC) based on combining multiple technical indicators. By leveraging various indicators such as Squeeze Momentum, Moving Average Divergence Convergence (MACD) and Relative Strength Index (RSI), investors can make more informed decisions regarding entry and exit points in the BTC market. The aim of this implementation is to provide a holistic approach to BTC investments, considering both trend direction and momentum signals.
+This repository offers a comprehensive investment strategy for Bitcoin (BTC) based on combining multiple technical indicators. By leveraging a combination of technical indicators, such as Squeeze Momentum, Moving Average Divergence Convergence (MACD) and Relative Strength Index (RSI),investors can make more informed decisions regarding entry and exit points in the BTC market. This has led to consistent returns with minimal risk. The aim of this implementation is to provide a holistic approach to BTC investments, considering both trend direction and momentum signals.
 
 ## Cumulative Return with Minimal Drawdown Risk
 
@@ -21,7 +21,7 @@ The example output showcases market behavior from January 2023 to February 2024,
 
 ## Performance
 
-This script has demonstrated strong performance over the past four years, accurately identifying both the top and bottom of trends in the Bitcoin market, thereby avoiding 713 days of continuous market downtrend. This has resulted in an impressive 1259% return. By leveraging a combination of technical indicators, investors can make informed decisions that have led to consistent returns with minimal drawdown risk.
+This script has demonstrated strong performance over the past four years, accurately identifying both the top and bottom of trends in the Bitcoin market, thereby avoiding 713 days of continuous market downtrend. This has resulted in an impressive 1259% return.
 
 ![Example Output](Figures/BTC-USD_2024-02-27_1.png)
 
