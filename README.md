@@ -25,27 +25,16 @@ This script has demonstrated strong performance over the past four years, accura
 
 ![Example Output](Figures/BTC-USD_2024-02-10_2.png)
 
-## Features
+## Some indicators included in this implementatioon
 
 - **Squeeze Momentum Indicator**: Identifies the beginning and end of trends by combining Bollinger Bands and Keltner Channels.
-
 - **Moving Average Divergence Convergence (MACD)**: Helps determine trend directions through the crossing of short-term and long-term moving averages.
-  
 - **Relative Strength Index (RSI)**: Evaluates overbought or oversold conditions in BTC's price, providing insights into potential reversal points.
-
 - **Smooth Momentum**: A smoothed version of momentum indicator to provide clearer signals.
 
-## Usage
+## Usage Note
 
-To use the provided scripts, ensure you have the required Python libraries installed. Adjust the parameters according to your preferences and run the scripts. The provided functions enable users to visualize various indicators such as MACD, RSI, and Bollinger Bands, aiding in decision-making processes.
-
-## Dependencies
-
-- pandas: 1.5.2
-- mplfinance: 0.12.9b7
-- yfinance: 0.2.3
-- numpy: 1.24.1
-- matplotlib: 3.6.2
+This script was developed solely for personal investment decision-making. If you're interested in utilizing it for your own purposes, feel free to make an offer.
 
 ## Contributors
 
