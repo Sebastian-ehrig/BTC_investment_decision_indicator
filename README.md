@@ -34,7 +34,7 @@ This script has demonstrated strong performance over the past four years, accura
 
 ## Usage Note
 
-This script was developed solely for personal investment decision-making. If you're interested in utilizing it for your own purposes, feel free to make an offer.
+This script was developed solely for personal investment decision-making. If you're interested in utilizing it for your own purposes, feel free to get in touch.
 
 ## Contributors
 
