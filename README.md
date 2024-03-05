@@ -5,7 +5,7 @@ Advanced Bitcoin indicator for strategic investment decisions, delivering consis
 
 ## Introduction
 
-This repository offers a comprehensive investment strategy for Bitcoin (BTC) based on combining multiple technical indicators. By leveraging a combination of technical indicators, such as Squeeze Momentum, Moving Average Divergence Convergence (MACD) and Relative Strength Index (RSI),investors can make more informed decisions regarding entry and exit points in the BTC market. This has led to consistent returns with minimal risk. The aim of this implementation is to provide a holistic approach to BTC investments, considering both trend direction and momentum signals.
+This repository offers a comprehensive investment strategy for Bitcoin (BTC) based on combining multiple technical indicators. By leveraging a combination of technical indicators, investors can make more informed decisions regarding entry and exit points in the BTC market. This has led to consistent returns with minimal risk. The aim of this implementation is to provide a holistic approach to BTC investments, considering both trend direction and momentum signals.
 
 ## Cumulative Return with Minimal Drawdown Risk
 
