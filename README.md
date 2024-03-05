@@ -2,8 +2,6 @@
 Advanced Bitcoin indicator for strategic investment decisions, delivering consistent returns while minimizing drawdown risk.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Sebastian-ehrig/BTC_investment_decision_indicator)
-![GitHub issues](https://img.shields.io/github/issues-raw/Sebastian-ehrig/BTC_investment_decision_indicator)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/Sebastian-ehrig/BTC_investment_decision_indicator)
 
 ## Introduction
 
