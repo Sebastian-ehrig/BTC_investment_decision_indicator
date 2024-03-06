@@ -13,13 +13,13 @@ This implementation is designed to help achieve a cumulative return with minimal
 
 ## Example Output
 
-The example output showcases market behavior from January 2023 to February 2024, demonstrating precise market entries and capitalizing on buy and sell opportunities. By leveraging these indicators, it achieved a cumulative return of ~102%.
+The example output showcases market behavior from January 2023 to February 2024, demonstrating precise market entries and capitalizing on buy and sell opportunities. By leveraging these indicators, it achieved a cumulative return of ~102%. Gray vertical bars indicate entry and exit time-positions, whereby red dots are sell points and blue dots are buying points.
 
 ![Example Output](Figures/BTC-USD_2024-03-06_3.png)
 
 ## Performance
 
-This script has demonstrated strong performance over the past four years, accurately identifying both the top and bottom of trends in the Bitcoin market, thereby avoiding 713 days of continuous market downtrend. This has resulted in an impressive 1259% return.
+This script has demonstrated strong performance over the past four years, accurately identifying both the top and bottom of trends in the Bitcoin market, thereby avoiding 713 days of continuous market downtrend. This has resulted in an impressive 1239% return.
 
 ![Example Output](Figures/BTC-USD_2024-03-06_2.png)
 
