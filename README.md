@@ -13,7 +13,7 @@ This implementation is designed to help achieve a cumulative return with minimal
 
 ## Example Output
 
-The example output showcases market behavior from January 2023 to February 2024, demonstrating precise market entries and capitalizing on buy and sell opportunities. By leveraging these indicators, it achieved a cumulative return of ~102%. Gray vertical bars indicate entry and exit time-positions, whereby red dots are sell points and blue dots are buying points.
+The example output showcases market behavior from August 2022 to March 2024, demonstrating precise market entries and capitalizing on buy and sell opportunities. By leveraging these indicators, it achieved a cumulative return of ~102%. Gray vertical bars indicate entry and exit time-positions, whereby red dots are sell points and blue dots are buying points.
 
 ![Example Output](Figures/BTC-USD_2024-03-06_3.png)
 
