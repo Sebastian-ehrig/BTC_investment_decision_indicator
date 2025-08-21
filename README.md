@@ -5,11 +5,11 @@ Advanced Bitcoin indicator for strategic investment decisions, delivering consis
 
 ## Introduction
 
-This repository provides a comprehensive investment strategy for Bitcoin (BTC). It combines multiple technical indicators and real-time on-chain data, which allows investors to make informed decisions regarding entry and exit points in the volatile BTC market. The startegy is designed to help achieve cumulative returns while minimising drawdown risk. The aim of this implementation is to provide a holistic approach to BTC investments, considering both trend direction and momentum signals.
+This implementation provides a comprehensive investment strategy for Bitcoin (BTC) only. It combines multiple technical indicators and real-time on-chain data, which allows investors to make informed decisions regarding entry and exit points in the volatile BTC market. The strategy is designed to help achieve cumulative returns while minimising drawdown risk. The aim is to provide a holistic approach to BTC investments, considering both trend direction and momentum signals.
 
 ## Example period
 
-The example output showcases market behavior from November 2022 to August 2025, demonstrating precise market entries and capitalizing on buy and sell opportunities, thereby achieving a cumulative return of ~520%. Gray vertical bars indicate entry and exit time-positions, whereby red dots are sell points and blue dots are buying points.
+The example showcases market behavior from November 2022 to August 2025, demonstrating precise market entries and capitalizing on buy and sell opportunities, thereby achieving a cumulative return of ~520%. Gray vertical bars indicate entry and exit time-positions, whereby red dots are sell points and blue dots are buying points.
 
 ![Example Output](Figures/BTC-USD_2025-08-21_11.png)
 
