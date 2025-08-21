@@ -5,11 +5,7 @@ Advanced Bitcoin indicator for strategic investment decisions, delivering consis
 
 ## Introduction
 
-This repository offers a comprehensive investment strategy for Bitcoin (BTC). It combines multiple technical indicators and real-time on-chain data, which allows investors to make informed decisions regarding entry and exit points in the BTC market. This startegy delivers consistent returns while minimising drawdown risk. The aim of this implementation is to provide a holistic approach to BTC investments, considering both trend direction and momentum signals.
-
-## Cumulative Return with Minimal Drawdown Risk
-
-This implementation is designed to help achieve a cumulative return with minimal drawdown risk. By combining multiple indicators and on-chanin data such as trading volume, ease-of-movement and RSI etc., investors get a clearer market perspective on the volatile BTC market while aiming for consistent returns.
+This repository provides a comprehensive investment strategy for Bitcoin (BTC). It combines multiple technical indicators and real-time on-chain data, which allows investors to make informed decisions regarding entry and exit points in the volatile BTC market. The startegy is designed to help achieve cumulative returns while minimising drawdown risk. The aim of this implementation is to provide a holistic approach to BTC investments, considering both trend direction and momentum signals.
 
 ## Example period
 
