@@ -11,7 +11,7 @@ This repository offers a comprehensive investment strategy for Bitcoin (BTC) bas
 
 This implementation is designed to help achieve a cumulative return with minimal drawdown risk. By combining multiple indicators and considering additional factors such as the DXY Index and Golden Cross, investors can better navigate the volatile BTC market while aiming for consistent returns.
 
-## Example Output
+## Example period
 
 The example output showcases market behavior from November 2022 to August 2025, demonstrating precise market entries and capitalizing on buy and sell opportunities, thereby achieving a cumulative return of ~520%. Gray vertical bars indicate entry and exit time-positions, whereby red dots are sell points and blue dots are buying points.
 
@@ -19,16 +19,16 @@ The example output showcases market behavior from November 2022 to August 2025, 
 
 ## Performance
 
-This script has demonstrated strong performance over the past four years, accurately identifying both the top and bottom of trends in the Bitcoin market, thereby avoiding 713 days of continuous market downtrend. This has resulted in an impressive 1239% return.
+This script has demonstrated strong performance over the past six years (2019 - 2025), accurately identifying both the top and bottom of the Bitcoin market, thereby avoiding 412 days of continuous market downtrend. This has resulted in an impressive 6510% return.
 
 ![Example Output](Figures/BTC-USD_2025-08-21_2.png)
 
 ## Some indicators included in this implementation
 
 - **Squeeze Momentum Indicator**: Identifies the beginning and end of trends by combining Bollinger Bands and Keltner Channels.
-- **Moving Average Divergence Convergence (MACD)**: Helps determine trend directions through the crossing of short-term and long-term moving averages.
+- **Moving Average Divergence Convergence (MACD)**: used to determine trend direction through the crossing of short-term and long-term moving averages.
 - **Relative Strength Index (RSI)**: Evaluates overbought or oversold conditions in BTC's price, providing insights into potential reversal points.
-- **Smooth Momentum**: A smoothed version of momentum indicator to provide clearer signals.
+- **Smooth Momentum**: A smoothed version of the momentum indicator to provide clearer signals.
 
 ## Usage Note
 
