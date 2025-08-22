@@ -9,13 +9,13 @@ This implementation provides a comprehensive investment strategy for Bitcoin (BT
 
 ## Example period
 
-The example showcases market behavior from November 2022 to August 2025, demonstrating precise market entries and capitalizing on buy and sell opportunities, thereby achieving a cumulative return of ~520%. Gray vertical bars indicate entry and exit time-positions, whereby red dots are sell points and blue dots are buying points.
+The example showcases market behavior from October 2022 to August 2025, demonstrating precise market entries and capitalizing on buy and sell opportunities, thereby achieving a cumulative return of ~540%. Gray vertical bars indicate entry and exit time-positions, whereby red dots are sell points and blue dots are buying points.
 
 ![Example Output](Figures/BTC-USD_2025-08-22_1.png)
 
 ## Performance
 
-This strategy has demonstrated strong performance between 2019 and 2025, accurately identifying both the top and bottom of the Bitcoin market, thereby avoiding 412 days of continuous market downtrend. This has resulted in an impressive 6510% return - compared to a buy and hold strategy that would have yielded "only" 1500% for the same period and with considerably higher risk!
+This strategy has demonstrated strong performance between 2019 and 2025, accurately identifying both the top and bottom of the Bitcoin market, thereby avoiding 412 days of continuous market downtrend. This has resulted in an impressive 6028% return - compared to a buy and hold strategy that would have yielded "only" 1500% for the same period and with considerably higher risk!
 
 ![Example Output](Figures/BTC-USD_2025-08-22_2.png)
 
