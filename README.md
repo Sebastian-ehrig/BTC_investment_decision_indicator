@@ -11,18 +11,18 @@ Backtest results use daily data and exclude leverage. **Figures are for research
 
 ## Example period
 
-The example showcases market behavior from October 2022 to August 2025, demonstrating precise market entries and capitalizing on buy and sell opportunities, thereby achieving a cumulative return of ~540%. 
+The example showcases market behavior from October 2022 to August 2025, demonstrating precise market entries and capitalizing on buy and sell opportunities, thereby achieving a **cumulative return of ~540%**. 
 The main plot shows the bitcoin-price as a OHCL candle chart. Gray vertical bars indicate entry and exit time-positions, whereby red dots are sell points and blue dots are buying points. The purple dotted line is the long-term holder realized prise. Dashed magenta and grey lines are the 50- and 200-days moving averages, with intesections highlighted as yellow (golden-cross) and black-dots (death-cross). Below the main plot are some important indicators: (1) squeeze-momentum, (2) RSI with colored dots indicating monthly RSI ranging from blue to red, (3) Volume and EOM, and (4) MVRV Z-scrore and current transaction costs.
 
 ![Example Output](Figures/BTC-USD_2025-08-22_1.png)
 
 ## Performance
 
-This strategy has demonstrated strong performance between 2019 and 2025, accurately identifying both the top and bottom of the Bitcoin market, thereby avoiding 412 days of continuous market downtrend. This has resulted in an impressive 6028% return - compared to a buy and hold strategy that would have yielded "only" 1500% for the same period and with considerably higher risk! During prolonged downtrends the strategy emphasizes capital preservation by stepping aside rather than forcing exposure.
+This strategy has demonstrated strong performance between 2019 and 2025, accurately identifying both the top and bottom of the Bitcoin market, thereby **avoiding 412 days of continuous market downtrend**. This has resulted in an impressive 6028% return - compared to a buy and hold strategy that would have yielded "only" 1500% for the same period and with considerably higher risk! During prolonged downtrends the strategy emphasizes capital preservation by stepping aside rather than forcing exposure.
 
 ![Example Output](Figures/BTC-USD_2025-08-22_2.png)
 
-In addition, this strategy has also been backtested on historical data yielding consistent returns over an extended timeframe (Sept 2014 - Aug 2025). In particular, it successfully predicted the BTC bear-market bottom in 2015, 2019, and 2022 as well as the market top of the 2017 and 2021 bull-market. Following this strategy would have yielded in a ~1M% return. However, if this strategy continues to work in the future remains to be seen. Out-of-sample behavior may differ if market microstructure or on-chain dynamics change
+In addition, this strategy has also been backtested on historical data yielding consistent returns over an extended timeframe (Sept 2014 - Aug 2025). In particular, it successfully predicted the BTC bear-market bottom in 2015, 2019, and 2022 as well as the market top of the 2017 and 2021 bull-market. However, if this strategy continues to work in the future remains to be seen. Out-of-sample behavior may differ if market microstructure or on-chain dynamics change
 
 ![Example Output](Figures/BTC-USD_2025-08-22_3.png)
 
