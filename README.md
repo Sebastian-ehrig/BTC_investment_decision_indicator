@@ -11,9 +11,8 @@ Backtest results use daily data and exclude leverage. **Figures are for research
 
 ## Example period
 
-The example showcases market behavior from October 2022 to August 2025, demonstrating precise market entries and capitalizing on buy and sell opportunities, thereby achieving a cumulative return of ~540%. The main plot shows the bitcoin-price as a OHCL candle chart. Gray vertical bars indicate entry and exit time-positions, whereby red dots are sell points and blue dots are buying points. The purple dotted line is the long-term holder realized prise. Dashed magenta and grey lines are the 50- and 200-days moving averages, with intesections highlighted as yellow (golden-cross) and black-dots (death-cross).
-
-Below the main plot are some important indicators: (1) squeeze-momentum, (2) RSI with colored dots indicating monthly RSI ranging from blue to red, (3) Volume and EOM, and (4) MVRV Z-scrore and current transaction costs.
+The example showcases market behavior from October 2022 to August 2025, demonstrating precise market entries and capitalizing on buy and sell opportunities, thereby achieving a cumulative return of ~540%. 
+The main plot shows the bitcoin-price as a OHCL candle chart. Gray vertical bars indicate entry and exit time-positions, whereby red dots are sell points and blue dots are buying points. The purple dotted line is the long-term holder realized prise. Dashed magenta and grey lines are the 50- and 200-days moving averages, with intesections highlighted as yellow (golden-cross) and black-dots (death-cross). Below the main plot are some important indicators: (1) squeeze-momentum, (2) RSI with colored dots indicating monthly RSI ranging from blue to red, (3) Volume and EOM, and (4) MVRV Z-scrore and current transaction costs.
 
 ![Example Output](Figures/BTC-USD_2025-08-22_1.png)
 
@@ -29,8 +28,8 @@ In addition, this strategy has also been backtested on historical data yielding 
 
 ## Current market stage
 
-The panel below tracks the **market stage since the breakout on 2024-05-29** and includes a **90-day inset** for recent detail.  
-Green/red shading indicate upward or downward trends. A **volume profile** on the right highlights high-volume (HVN) and low-volume (LVN) nodes; the **horizontal lines** mark support/resistance areas derived from those nodes.
+The panel below tracks the market stage since the last breakout in Nov 20224 and includes a 90-day inset for recent detail.  
+Green/red shading indicate upward or downward trends. The volume profile on the right highlights high-volume and low-volume nodes; the horizontal lines mark support/resistance areas derived from those nodes.
 
 ![Current market stage](Figures/BTC-USD_2025-08-27_.png "BTC indicator – market stage since 2024-05-29")
 
