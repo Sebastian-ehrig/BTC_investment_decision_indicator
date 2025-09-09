@@ -68,28 +68,47 @@ The following chart compares the compounded strategy equity curve against a simp
 Both are normalized to **1.0 at the first Buy**.  
 The log scale highlights how the strategy side-steps bear markets while buy-and-hold suffers deep drawdowns.
 
-![Strategy vs Buy & Hold](Figures/strategy_vs_buyhold.png "Equity curves: strategy vs buy-and-hold")
----
+<img src="Figures/strategy_vs_buyhold.png" alt="Equity curves: strategy vs buy-and-hold" width="50%">
 
-⚠️ **Important note on returns:**  
+⚠️ **Note on returns:**  
 The “Cumulative return” shown in the **figure header** (e.g. *7182%*) reflects the raw **BTC price increase from Dec 2019 → Sep 2025** (buy-and-hold baseline).  
 The **strategy’s equity curve**, derived from the trade audit, compounds only on executed trades and currently shows **55× realized growth**, or **71.8× including the open position**. This distinction ensures readers don’t confuse BTC’s own appreciation with the strategy’s results.
-
+---
 ## Backtested performance on historical data (2014 - 2025)
 
 In addition, this strategy has also been backtested on historical data yielding consistent returns over an extended timeframe (Sept 2014 - Aug 2025). In particular, it successfully predicted the BTC bear-market bottom in 2015, 2019, and 2022 as well as the market top of the 2017 and 2021 bull-market. However, if this strategy continues to work in the future remains to be seen. Out-of-sample behavior may differ if market microstructure or on-chain dynamics change
 
 ![Example Output](Figures/BTC-USD_2025-09-09_3.png)
-
+---
 ## Current market stage
 
 The panel below shows the market stage since the last breakout in Nov 20224 and includes a 90-day inset for recent detail.  
 Green/red shaded areas indicate upward or downward trends. The volume profile on the right shows where trading has concentrated across price levels, revealing areas of strong market participation. Horizontal lines indicate support and resistance zones derived from those high- and low-volume areas.
 
-![Current market stage](Figures/BTC-USD_2025-09-09_4.png "BTC indicator – market stage since 2024-05-29")
+## Current market stage
 
-<sub><em>Notes:</em> Price shown in USD. Shading = short-term MACD spread; not a standalone signal. Volume profile peaks often align with **support/resistance**. Figure last updated: 2025-08-27.</sub>
+The panels below show the market stage since the last breakout in Nov 2024 and include both the long view and a more detailed view of the past 18 months.  
+Green/red shaded areas indicate upward or downward trends. The volume profile on the right shows where trading has concentrated across price levels, revealing areas of strong market participation. Horizontal lines indicate support and resistance zones derived from those high- and low-volume areas.
 
+![Current market stage – overview](Figures/BTC-USD_2025-09-09_4.png "BTC indicator – market stage since 2024-03-11")
+<sub><em>Notes:</em> Price shown in USD. Shading = short-term MACD spread; not a standalone signal. Volume profile peaks often align with **support/resistance**. Figure last updated: 2025-09-09.</sub>
+
+The figure above highlights BTC’s price evolution between March 2024 and September 2025:  
+- A prolonged consolidation phase in mid-2024, followed by a sharp breakout into late 2024.  
+- Strong upward momentum until April 2025, when a new **buy signal** was triggered (~$87.5k).  
+- Since then, BTC has retested support levels around $100k multiple times, with resistance clustering around $120–125k.  
+- The **volume profile** indicates the heaviest trading concentration between $90–100k, reinforcing this area as strong structural support.  
+- Current price (~$113k) suggests BTC remains in a broad consolidation band after a rapid advance, with upside potential if resistance near $125k is broken.  
+
+# Outlook (as of 2025-09-09):
+
+The chart suggests a potential **head-and-shoulders pattern** with a neckline around $100–105k:  
+- **Bearish case:** Breakdown below $100k could activate this pattern, projecting downside toward ~$75k, though strong volume support sits at $90–95k.  
+- **Bullish case:** Holding $100k and reclaiming $120–125k would invalidate the bearish setup and open the way toward $160k+.  
+
+At present, BTC is at an inflection point: short-term bias cautious, medium-term structure still bullish above $90–95k.
+
+---
 ## Some indicators and on-chain data included in this implementation
 
 - **Squeeze Momentum Indicator**: Identifies the beginning and end of trends by combining Bollinger Bands and Keltner Channels.
