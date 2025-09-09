@@ -24,7 +24,7 @@ This resulted in an impressive **return of ~71.8× (+7,182%)** (including the op
 
 ![Example Output](Figures/BTC-USD_2025-09-09_2.png)
 
-Notes: “Cumulative return” shown in the figure header (e.g. *7182%*) reflects the raw **BTC price increase from Dec 2019 → Sep 2025** (buy-and-hold baseline). The **strategy’s equity curve**, derived from the trade audit, compounds only on executed trades and currently shows **55× realized growth**, or **71.8× including the open position**. This distinction ensures readers don’t confuse BTC’s own appreciation with the strategy’s results.
+Notes: “Cumulative return” shown in the figure header (e.g. *7182%*) reflects the raw **BTC price increase from Dec 2019 → Sep 2025** (buy-and-hold baseline).
 
 ---
 
@@ -71,6 +71,8 @@ Both are normalized to **1.0 at the first Buy**.
 The log scale highlights how the strategy side-steps bear markets while buy-and-hold suffers deep drawdowns.
 
 <img src="Figures/strategy_vs_buyhold.png" alt="Equity curves: strategy vs buy-and-hold" width="50%">
+
+Notes: “Cumulative return” shown in the figure header (e.g. *7182%*) reflects the raw **BTC price increase from Dec 2019 → Sep 2025** (buy-and-hold baseline). The **strategy’s equity curve**, derived from the trade audit, compounds only on executed trades and currently shows **55× realized growth**, or **71.8× including the open position**. This distinction ensures readers don’t confuse BTC’s own appreciation with the strategy’s results.
 
 ---
 ## Backtested performance on historical data (2014 - 2025)
