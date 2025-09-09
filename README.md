@@ -70,7 +70,7 @@ The log scale highlights how the strategy side-steps bear markets while buy-and-
 
 <img src="Figures/strategy_vs_buyhold.png" alt="Equity curves: strategy vs buy-and-hold" width="50%">
 
-⚠️ **Note on returns:**  
+⚠️ Note on returns:
 The “Cumulative return” shown in the **figure header** (e.g. *7182%*) reflects the raw **BTC price increase from Dec 2019 → Sep 2025** (buy-and-hold baseline).  
 The **strategy’s equity curve**, derived from the trade audit, compounds only on executed trades and currently shows **55× realized growth**, or **71.8× including the open position**. This distinction ensures readers don’t confuse BTC’s own appreciation with the strategy’s results.
 ---
