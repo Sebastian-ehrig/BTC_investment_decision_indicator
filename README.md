@@ -86,11 +86,6 @@ In addition, this strategy has also been backtested on historical data yielding 
 The panel below shows the market stage since the last breakout in Nov 20224 and includes a 90-day inset for recent detail.  
 Green/red shaded areas indicate upward or downward trends. The volume profile on the right shows where trading has concentrated across price levels, revealing areas of strong market participation. Horizontal lines indicate support and resistance zones derived from those high- and low-volume areas.
 
-## Current market stage
-
-The panels below show the market stage since the last breakout in Nov 2024 and include both the long view and a more detailed view of the past 18 months.  
-Green/red shaded areas indicate upward or downward trends. The volume profile on the right shows where trading has concentrated across price levels, revealing areas of strong market participation. Horizontal lines indicate support and resistance zones derived from those high- and low-volume areas.
-
 ![Current market stage – overview](Figures/BTC-USD_2025-09-09_4.png "BTC indicator – market stage since 2024-03-11")
 <sub><em>Notes:</em> Price shown in USD. Shading = short-term MACD spread; not a standalone signal. Volume profile peaks often align with **support/resistance**. Figure last updated: 2025-09-09.</sub>
 
