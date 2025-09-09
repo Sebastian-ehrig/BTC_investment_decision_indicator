@@ -79,7 +79,7 @@ The **strategy’s equity curve**, derived from the trade audit, compounds only 
 
 In addition, this strategy has also been backtested on historical data yielding consistent returns over an extended timeframe (Sept 2014 - Aug 2025). In particular, it successfully predicted the BTC bear-market bottom in 2015, 2019, and 2022 as well as the market top of the 2017 and 2021 bull-market. However, if this strategy continues to work in the future remains to be seen. Out-of-sample behavior may differ if market microstructure or on-chain dynamics change
 
-![Example Output](Figures/BTC-USD_2025-2025-09-09_3.png)
+![Example Output](Figures/BTC-USD_2025-09-09_3.png)
 
 ## Current market stage
 
