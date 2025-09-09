@@ -1,5 +1,5 @@
-# Bitcoin Trading Indicator for Informed Investment Decisions
-Advanced Bitcoin indicator for strategic investment decisions, delivering consistent returns while minimizing drawdown risk.
+# Advanced Bitcoin Trading Strategy
+Bitcoin trading strategy aimed at delivering consistent returns while minimizing drawdown risk.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Sebastian-ehrig/BTC_investment_decision_indicator)
 
