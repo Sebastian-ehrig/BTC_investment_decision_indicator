@@ -67,9 +67,7 @@ Open trade: **2025-04-21 @ $87,519 → $112,955** (+29.1%)
 
 ### Strategy vs. Buy & Hold
 
-The following chart compares the compounded strategy equity curve against a simple buy-and-hold benchmark.  
-Both are normalized to **1.0 at the first Buy**.  
-The log scale highlights how the strategy side-steps bear markets while buy-and-hold suffers deep drawdowns.
+The following chart compares the compounded strategy equity curve against a simple buy-and-hold benchmark. Both curves are normalized to **1.0 at the first Buy**. It highlights how the strategy side-steps bear markets while buy-and-hold suffers deep drawdowns.
 
 <p align="center">
 <img src="Figures/strategy_vs_buyhold_styled.png" alt="Equity curves: strategy vs buy-and-hold" width="75%">
