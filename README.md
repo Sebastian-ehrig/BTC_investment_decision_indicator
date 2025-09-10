@@ -97,7 +97,7 @@ The figure above highlights BTC’s price evolution between March 2024 and Septe
 - The **volume profile** indicates the heaviest trading concentration between $90–100k, reinforcing this area as strong structural support.  
 - Current price (~$113k) suggests BTC remains in a broad consolidation band after a rapid advance, with upside potential if resistance near $125k is broken.  
 
-# Outlook (as of 2025-09-09):
+### Outlook
 
 The chart suggests a potential **head-and-shoulders pattern** with a neckline around $100–105k:  
 - **Bearish case:** Breakdown below $100k could activate this pattern, projecting downside toward ~$75k, though strong volume support sits at $90–95k.  
