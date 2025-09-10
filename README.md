@@ -21,7 +21,7 @@ Below the main plot are some important indicators: (1) squeeze-momentum, (2) RSI
 ## Performance
 
 This strategy has demonstrated strong performance between 2019 and 2025, accurately identifying both the top and bottom of the Bitcoin market, thereby **avoiding 571 days of continuous market downtrend** (vs. being fully exposed with buy-and-hold).  
-This resulted in an impressive **return of ~71.8× (+7,182%)** (including the open position) — compared to a buy-and-hold strategy that would have yielded "only" ~11.8× (+1,178%) for the same period, and with considerably higher risk. During prolonged downtrends the strategy emphasizes capital preservation by stepping aside rather than forcing exposure.
+This resulted in an impressive **return of ~72.8× (+7,182%)** (including the open position) — compared to a buy-and-hold strategy that would have yielded "only" ~12.8× (+1,178%) for the same period, and with considerably higher risk. During prolonged downtrends the strategy emphasizes capital preservation by stepping aside rather than forcing exposure.
 
 ![Example Output](Figures/BTC-USD_2025-09-09_2.png)
 
@@ -35,14 +35,14 @@ Signals detected: **13** total (7 buys / 6 sells), leaving one open position.
 
 **Completed trades (6 round-trips):**
 - **Win rate:** 100% (no losing trades)  
-- **Realized compounded return:** ~55.4× (+5,542%)  
+- **Realized compounded return:** ~56.4× (+5,542%)  
 - **CAGR (realized):** ~132% per year (2020-04-24 → 2025-02-09)  
-- **Buy-and-hold over same window:** ~11.8× (+1,178%)  
+- **Buy-and-hold over same window:** ~12.8× (+1,178%)  
 
 **Including the current open position:**
 - Latest buy: 2025-04-21 @ $87,519  
 - Current price: $112,955 (as of 2025-09-09) → +29.1% unrealized  
-- **Compounded return including open:** ~71.8× (+7,182%)  
+- **Compounded return including open:** ~72.8× (+7,182%)  
 - **CAGR including open:** ~122% per year  
 
 **Exposure profile:**
