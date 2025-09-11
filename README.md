@@ -14,13 +14,12 @@ Backtest results use daily data and exclude leverage. **Figures are for research
 The example showcases market behavior from October 2022 to September 2025, demonstrating precise market entries and capitalizing on buy and sell opportunities, thereby achieving a **cumulative return of ~658%**. This highlights how the combination of technical and on-chain signals **consistently identifies trends** and **optimal entry/exit points**, across changing market conditions.
 
 ![Example Output](Figures/BTC-USD_2025-09-11_1.png)
-<sub>The main plot displays the Bitcoin price as an OHLC candlestick chart. Gray vertical bars mark entry and exit positions, with red dots denoting sell points and blue dots denoting buy points. The purple dotted line represents the long-term holder realized price. Dashed magenta and gray lines show the 50- and 200-day moving averages, with their intersections highlighted as yellow dots (golden crosses) and black dots (death crosses).  
-Below the main plot are key indicators: (1) squeeze momentum, (2) RSI with colored dots indicating monthly RSI levels from blue (low) to red (high), (3) volume and EOM, and (4) MVRV Z-score and transaction fees.</sub>
+<sub>The main plot displays the Bitcoin price as an OHLC candlestick chart. Gray vertical bars mark entry and exit positions, with red dots denoting sell points and blue dots denoting buy points. The purple dotted line represents the long-term holder realized price. Dashed magenta and gray lines show the 50- and 200-day moving averages, with their intersections highlighted as yellow dots (golden crosses) and black dots (death crosses). Below the main plot are key indicators: (1) squeeze momentum, (2) RSI with colored dots indicating monthly RSI levels from blue (low) to red (high), (3) volume and EOM, and (4) MVRV Z-score and transaction fees.</sub>
 
 ## Performance
 
 This strategy has demonstrated strong performance between 2019 and 2025, accurately identifying both the top and bottom of the Bitcoin market, thereby **avoiding 571 days of continuous market downtrend** (vs. being fully exposed with buy-and-hold).  
-This resulted in an impressive **return of ~74.8× (+7,382%)** (including the open position) — compared to a buy-and-hold strategy that would have yielded "only" ~12.8× (+1,178%) for the same period, and with considerably higher risk. During prolonged downtrends the strategy emphasizes capital preservation by stepping aside rather than forcing exposure.
+This resulted in an impressive **return of ~74.8× (+7,382%)** (including the open position) - compared to a buy-and-hold strategy that would have yielded "only" ~12.8× (+1,178%) for the same period, and with considerably higher risk. During prolonged downtrends the strategy emphasizes capital preservation by stepping aside rather than forcing exposure.
 
 ![Example Output](Figures/BTC-USD_2025-09-11_2.png)
 
