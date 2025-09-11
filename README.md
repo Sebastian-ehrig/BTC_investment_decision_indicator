@@ -11,19 +11,18 @@ Backtest results use daily data and exclude leverage. **Figures are for research
 
 ## Example period
 
-The example showcases market behavior from October 2022 to September 2025, demonstrating precise market entries and capitalizing on buy and sell opportunities, thereby achieving a **cumulative return of ~617%**. 
+The example showcases market behavior from October 2022 to September 2025, demonstrating precise market entries and capitalizing on buy and sell opportunities, thereby achieving a **cumulative return of ~658%**. This highlights how the combination of technical and on-chain signals **consistently identifies trends** and **optimal entry/exit points**, across changing market conditions.
 
-The main plot shows the bitcoin-price as a OHCL candle chart. Gray vertical bars indicate entry and exit time-positions, whereby red dots are sell points and blue dots are buying points. The purple dotted line is the long-term holder realized prise. Dashed magenta and grey lines are the 50- and 200-days moving averages, with intesections highlighted as yellow (golden-cross) and black-dots (death-cross). 
-Below the main plot are some important indicators: (1) squeeze-momentum, (2) RSI with colored dots indicating monthly RSI ranging from blue to red, (3) Volume and EOM, and (4) MVRV Z-scrore and current transaction costs.
-
-![Example Output](Figures/BTC-USD_2025-09-09_1.png)
+![Example Output](Figures/BTC-USD_2025-09-11_1.png)
+<sub>The main plot displays the Bitcoin price as an OHLC candlestick chart. Gray vertical bars mark entry and exit positions, with red dots denoting sell points and blue dots denoting buy points. The purple dotted line represents the long-term holder realized price. Dashed magenta and gray lines show the 50- and 200-day moving averages, with their intersections highlighted as yellow dots (golden crosses) and black dots (death crosses).  
+Below the main plot are key indicators: (1) squeeze momentum, (2) RSI with colored dots indicating monthly RSI levels from blue (low) to red (high), (3) volume and EOM, and (4) MVRV Z-score and transaction fees.</sub>
 
 ## Performance
 
 This strategy has demonstrated strong performance between 2019 and 2025, accurately identifying both the top and bottom of the Bitcoin market, thereby **avoiding 571 days of continuous market downtrend** (vs. being fully exposed with buy-and-hold).  
 This resulted in an impressive **return of ~72.8× (+7,182%)** (including the open position) — compared to a buy-and-hold strategy that would have yielded "only" ~12.8× (+1,178%) for the same period, and with considerably higher risk. During prolonged downtrends the strategy emphasizes capital preservation by stepping aside rather than forcing exposure.
 
-![Example Output](Figures/BTC-USD_2025-09-09_2.png)
+![Example Output](Figures/BTC-USD_2025-09-11_2.png)
 
 Notes: “Cumulative return” shown in the figure header (e.g. *7182%*) reflects the raw **BTC price increase from Dec 2019 → Sep 2025** (buy-and-hold baseline).
 
@@ -80,14 +79,15 @@ Note: The **strategy’s equity curve** compounds only on executed trades and sh
 
 In addition, this strategy has also been backtested on historical data yielding consistent returns over an extended timeframe (Sept 2014 - Aug 2025). In particular, it successfully predicted the BTC bear-market bottom in 2015, 2019, and 2022 as well as the market top of the 2017 and 2021 bull-market. However, if this strategy continues to work in the future remains to be seen. Out-of-sample behavior may differ if market microstructure or on-chain dynamics change
 
-![Example Output](Figures/BTC-USD_2025-09-09_3.png)
+![Example Output](Figures/BTC-USD_2025-09-11_3.png)
+
 ---
 ## Current market stage
 
 The panel below shows the market stage since the last breakout in Nov 20224.  
 Green/red shaded areas indicate upward or downward trends. The volume profile on the right shows where trading has concentrated across price levels, revealing areas of strong market participation. Horizontal lines indicate support and resistance zones derived from those high- and low-volume areas.
 
-![Current market stage – overview](Figures/BTC-USD_2025-09-09_4.png "BTC indicator – market stage since 2024-03-11")
+![Current market stage – overview](Figures/BTC-USD_2025-09-11_4.png "BTC indicator – market stage since 2024-03-13")
 <sub><em>Notes:</em> Price shown in USD. Shading = short-term MACD spread; not a standalone signal. Volume profile peaks often align with **support/resistance**. Figure last updated: 2025-09-09.</sub>
 
 The figure above highlights BTC’s price evolution between March 2024 and September 2025:  
