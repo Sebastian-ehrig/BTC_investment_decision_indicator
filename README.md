@@ -7,6 +7,8 @@ Bitcoin trading strategy aimed at delivering consistent returns while minimizing
 
 This implementation provides a comprehensive investment strategy for Bitcoin (BTC). It combines multiple technical indicators and real-time on-chain data, which allows investors to make informed decisions regarding entry and exit points in the volatile BTC market. The strategy is designed to help achieve cumulative returns while minimising drawdown risk. The aim is to provide a holistic approach to BTC investments, considering both trend direction and momentum signals. Signals are generated on daily candles and are intended for spot BTC exposure; no leverage or short positions are assumed.
 
+**In a nutshell**: It tries to find the best entry opportunity and exits the market when it becomes too risky. 
+
 Backtest results use daily data and exclude leverage. **Figures are for research only, not financial advice!**
 
 ## Example period
