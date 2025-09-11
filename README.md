@@ -40,7 +40,7 @@ Signals detected: **13** total (7 buys / 6 sells), leaving one open position.
 **Including the current open position:**
 - Latest buy: 2025-04-21 @ $87,519  
 - Current price: $114,100 (as of 2025-09-11) → +30.4% unrealized 
-- **Compounded return including open:** ~73.5× (+7,253%)  
+- **Compounded return including open:** ~74.8× (+7,382%)  
 - **CAGR including open:** ~122% per year  
 
 **Exposure profile:**
