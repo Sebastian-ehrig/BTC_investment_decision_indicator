@@ -25,8 +25,6 @@ This resulted in an impressive **return of ~74.8× (+7,382%)** (including the op
 
 ![Example Output](Figures/BTC-USD_2025-09-11_2.png)
 
-Notes: “Cumulative return” shown in the figure header (e.g. *7382%*) reflects the raw **BTC price increase from Dec 2019 → Sep 2025** (buy-and-hold baseline).
-
 ---
 
 ### Detailed Performance Evaluation (Dec 2019 – Sep 2025)
@@ -67,7 +65,7 @@ Open trade: **2025-04-21 @ $87,519 → $114,100** (+30.4%)
 
 ### Trading Strategy vs. Buy & Hold
 
-The following chart compares the compounded strategy equity curve against a simple buy-and-hold benchmark. Both curves are normalized to **1.0 at the first Buy**. It highlights how the strategy side-steps bear markets while buy-and-hold suffers deep drawdowns.
+The following chart compares the compounded strategy equity curve against a simple buy-and-hold benchmark. Both curves are normalized to **1.0 at the first Buy**. It highlights how the trading strategy side-steps bear markets while buy-and-hold suffers deep drawdowns.
 
 <p align="center">
 <img src="Figures/strategy_vs_buyhold_styled.png" alt="Equity curves: strategy vs buy-and-hold" width="75%">
@@ -89,7 +87,7 @@ The panel below shows the market stage since the last breakout in Nov 20224.
 Green/red shaded areas indicate upward or downward trends. The volume profile on the right shows where trading has concentrated across price levels, revealing areas of strong market participation. Horizontal lines indicate support and resistance zones derived from those high- and low-volume areas.
 
 ![Current market stage – overview](Figures/BTC-USD_2025-09-11_4.png "BTC indicator – market stage since 2024-03-13")
-<sub><em>Notes:</em> Price shown in USD. Shading = short-term MACD spread; not a standalone signal. Volume profile peaks often align with **support/resistance**. Figure last updated: 2025-09-09.</sub>
+<sub><em>Notes:</em> Price shown in USD. Shading = short-term MACD spread; not a standalone signal. Volume profile peaks often align with **support/resistance**. Figure last updated: 2025-09-11.</sub>
 
 The figure above highlights BTC’s price evolution between March 2024 and September 2025:  
 - A prolonged consolidation phase in mid-2024, followed by a sharp breakout into late 2024.  
