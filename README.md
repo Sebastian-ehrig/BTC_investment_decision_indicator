@@ -20,11 +20,11 @@ Below the main plot are key indicators: (1) squeeze momentum, (2) RSI with color
 ## Performance
 
 This strategy has demonstrated strong performance between 2019 and 2025, accurately identifying both the top and bottom of the Bitcoin market, thereby **avoiding 571 days of continuous market downtrend** (vs. being fully exposed with buy-and-hold).  
-This resulted in an impressive **return of ~72.8× (+7,182%)** (including the open position) — compared to a buy-and-hold strategy that would have yielded "only" ~12.8× (+1,178%) for the same period, and with considerably higher risk. During prolonged downtrends the strategy emphasizes capital preservation by stepping aside rather than forcing exposure.
+This resulted in an impressive **return of ~74.8× (+7,382%)** (including the open position) — compared to a buy-and-hold strategy that would have yielded "only" ~12.8× (+1,178%) for the same period, and with considerably higher risk. During prolonged downtrends the strategy emphasizes capital preservation by stepping aside rather than forcing exposure.
 
 ![Example Output](Figures/BTC-USD_2025-09-11_2.png)
 
-Notes: “Cumulative return” shown in the figure header (e.g. *7182%*) reflects the raw **BTC price increase from Dec 2019 → Sep 2025** (buy-and-hold baseline).
+Notes: “Cumulative return” shown in the figure header (e.g. *7382%*) reflects the raw **BTC price increase from Dec 2019 → Sep 2025** (buy-and-hold baseline).
 
 ---
 
@@ -64,7 +64,7 @@ Open trade: **2025-04-21 @ $87,519 → $114,100** (+30.4%)
 
 ---
 
-### Strategy vs. Buy & Hold
+### Trading Strategy vs. Buy & Hold
 
 The following chart compares the compounded strategy equity curve against a simple buy-and-hold benchmark. Both curves are normalized to **1.0 at the first Buy**. It highlights how the strategy side-steps bear markets while buy-and-hold suffers deep drawdowns.
 
