@@ -40,8 +40,8 @@ Signals detected: **13** total (7 buys / 6 sells), leaving one open position.
 
 **Including the current open position:**
 - Latest buy: 2025-04-21 @ $87,519  
-- Current price: $112,955 (as of 2025-09-09) → +29.1% unrealized  
-- **Compounded return including open:** ~72.8× (+7,182%)  
+- Current price: $114,100 (as of 2025-09-11) → +30.4% unrealized 
+- **Compounded return including open:** ~73.5× (+7,253%)  
 - **CAGR including open:** ~122% per year  
 
 **Exposure profile:**
@@ -60,7 +60,7 @@ Signals detected: **13** total (7 buys / 6 sells), leaving one open position.
 | 2023-10-16 | $28,519    | 2024-04-19  | $63,844    | +124%  | 186 |
 | 2024-09-20 | $63,193    | 2025-02-09  | $96,500    | +52.7% | 142 |
 
-Open trade: **2025-04-21 @ $87,519 → $112,955** (+29.1%)
+Open trade: **2025-04-21 @ $87,519 → $114,100** (+30.4%)
 
 ---
 
@@ -72,7 +72,7 @@ The following chart compares the compounded strategy equity curve against a simp
 <img src="Figures/strategy_vs_buyhold_styled.png" alt="Equity curves: strategy vs buy-and-hold" width="75%">
 </p>
 
-Note: The **strategy’s equity curve** compounds only on executed trades and shows **55× realized growth**, or **71.8× including the open position**.
+Note: The **strategy’s equity curve** compounds only on executed trades and shows **55× realized growth**, or **73.5× including the open position**.
 
 ---
 ## Backtested performance on historical data (2014 - 2025)
