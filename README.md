@@ -13,17 +13,18 @@ Backtest results use daily data and exclude leverage. **Figures are for research
 
 ## Example period
 
-The example showcases market behavior from October 2022 to September 2025, demonstrating precise market entries and capitalizing on buy and sell opportunities, thereby achieving a **cumulative return of ~658%**. This highlights how the combination of technical and on-chain signals **consistently identifies trends** and **optimal entry/exit points**, across changing market conditions.
+The example showcases market behavior from October 2022 to September 2025, demonstrating precise market entries and capitalizing on buy and sell opportunities, thereby achieving a **cumulative return of ~655%**. This highlights how the combination of technical and on-chain signals **consistently identifies trends** and **optimal entry/exit points**, across changing market conditions.
 
-![Example Output](Figures/BTC-USD_2025-09-11_1.png)
+![Example Output](Figures/BTC-USD_2025-09-12_1.png)
 <sub>The main plot displays the Bitcoin price as an OHLC candlestick chart. Gray vertical bars mark entry and exit positions, with red dots denoting sell points and blue dots denoting buy points. The purple dotted line represents the long-term holder realized price. Dashed magenta and gray lines show the 50- and 200-day moving averages, with their intersections highlighted as yellow dots (golden crosses) and black dots (death crosses). Below the main plot are key indicators: (1) squeeze momentum, (2) RSI with colored dots indicating monthly RSI levels from blue (low) to red (high), (3) volume and EOM, and (4) MVRV Z-score and transaction fees.</sub>
 
 ## Performance
 
 This strategy has demonstrated strong performance between 2019 and 2025, accurately identifying both the top and bottom of the Bitcoin market, thereby **avoiding 571 days of continuous market downtrend** (vs. being fully exposed with buy-and-hold).  
-This resulted in an impressive **return of ~74.8× (+7,382%)** (including the open position) - compared to a buy-and-hold strategy that would have yielded "only" ~12.8× (+1,178%) for the same period, and with considerably higher risk. During prolonged downtrends the strategy emphasizes capital preservation by stepping aside rather than forcing exposure.
+This resulted in an impressive **return of ~74.1× (+7,313%)** (including the open position) - compared to a buy-and-hold strategy that would have yielded "only" ~12.8× (+1,178%) for the same period, and with considerably higher risk. During prolonged downtrends the strategy emphasizes capital preservation by stepping aside rather than forcing exposure.
 
-![Example Output](Figures/BTC-USD_2025-09-11_2.png)
+![Example Output](Figures/BTC-USD_2025-09-12_2.png)
+<sub>Price shown in USD. Shading = short-term MACD spread; not a standalone signal. Figure last updated: 2025-09-12.</sub>
 
 ---
 
@@ -38,10 +39,10 @@ Signals detected: **13** total (7 buys / 6 sells), leaving one open position.
 - **Buy-and-hold over same window:** ~12.8× (+1,178%)  
 
 **Including the current open position:**
-- Latest buy: 2025-04-21 @ $87,519  
-- Current price: $114,100 (as of 2025-09-11) → +30.4% unrealized 
-- **Compounded return including open:** ~74.8× (+7,382%)  
-- **CAGR including open:** ~122% per year  
+- Latest buy: 2025-04-21 @ $87,519
+- Current price: $115,508 (as of 2025-09-12) → 32.0% unrealized
+- **Compounded return including open:** ~74.1× (+7,313%)
+- **CAGR including open:** ~123% per year
 
 **Exposure profile:**
 - **Average days held per trade:** ~165 (median 164)  
@@ -59,26 +60,25 @@ Signals detected: **13** total (7 buys / 6 sells), leaving one open position.
 | 2023-10-16 | $28,519    | 2024-04-19  | $63,844    | +124%  | 186 |
 | 2024-09-20 | $63,193    | 2025-02-09  | $96,500    | +52.7% | 142 |
 
-Open trade: **2025-04-21 @ $87,519 → $114,100** (+30.4%)
+Open trade: **2025-04-21 @ $87,519 → $115,508** (32.0%)
 
 ---
 
 ### Trading Strategy vs. Buy & Hold
 
-The following chart compares the compounded strategy equity curve against a simple buy-and-hold benchmark. Both curves are normalized to **1.0 at the first Buy**. It highlights how the trading strategy side-steps bear markets while buy-and-hold suffers deep drawdowns.
+The following chart compares the compounded strategy equity curve against a simple buy-and-hold benchmark. Both curves are normalized to **1.0 at the first Buy**. It highlights how the trading strategy side-steps bear markets while buy-and-hold suffers deep drawdowns. The **strategy's equity curve** compounds only on executed trades and shows **73.5× growth - including the open position** (orange curve); and 12.8x for the buy-and-hold strategy (blue curve). 
 
 <p align="center">
 <img src="Figures/strategy_vs_buyhold_styled.png" alt="Equity curves: strategy vs buy-and-hold" width="75%">
 </p>
-
-Note: The **strategy’s equity curve** compounds only on executed trades and shows **55× realized growth**, or **73.5× including the open position**.
 
 ---
 ## Backtested performance on historical data (2014 - 2025)
 
 In addition, this strategy has also been backtested on historical data yielding consistent returns over an extended timeframe (Sept 2014 - Aug 2025). In particular, it successfully predicted the BTC bear-market bottom in 2015, 2019, and 2022 as well as the market top of the 2017 and 2021 bull-market. However, if this strategy continues to work in the future remains to be seen. Out-of-sample behavior may differ if market microstructure or on-chain dynamics change
 
-![Example Output](Figures/BTC-USD_2025-09-11_3.png)
+![Example Output](Figures/BTC-USD_2025-09-12_3.png)
+<sub>Price shown in USD; in log-scale. Shading = short-term MACD spread; not a standalone signal. Figure last updated: 2025-09-12.</sub>
 
 ---
 ## Current market stage
@@ -86,8 +86,8 @@ In addition, this strategy has also been backtested on historical data yielding 
 The panel below shows the market stage since the last breakout in Nov 20224.  
 Green/red shaded areas indicate upward or downward trends. The volume profile on the right shows where trading has concentrated across price levels, revealing areas of strong market participation. Horizontal lines indicate support and resistance zones derived from those high- and low-volume areas.
 
-![Current market stage – overview](Figures/BTC-USD_2025-09-11_4.png "BTC indicator – market stage since 2024-03-13")
-<sub><em>Notes:</em> Price shown in USD. Shading = short-term MACD spread; not a standalone signal. Volume profile peaks often align with **support/resistance**. Figure last updated: 2025-09-11.</sub>
+![Current market stage – overview](Figures/BTC-USD_2025-09-12_4.png "BTC indicator – market stage since 2024-03-14")
+<sub><em>Notes:</em> Price shown in USD. Shading = short-term MACD spread; not a standalone signal. Volume profile peaks often align with **support/resistance**. Figure last updated: 2025-09-12.</sub>
 
 The figure above highlights BTC’s price evolution between March 2024 and September 2025:  
 - A prolonged consolidation phase in mid-2024, followed by a sharp breakout into late 2024.  
